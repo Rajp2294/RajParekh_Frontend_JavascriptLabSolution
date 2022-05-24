@@ -1,9 +1,9 @@
 # RajParekh_Frontend_JavascriptLabSolution
 
-The Lab_Javascript_Solution consists:
+The Lab_Javascript_Solution consists below files:
 
-  quiz.html // The HTML code of the quiz template
+    1. quiz.html // The HTML code of the quiz template
   
-  main.css  // Styling of the quiz HTML template  
+    2. main.css  // Styling of the quiz HTML template  
   
-  index.js  //Logic for quiz application
+    3. index.js  //Logic for quiz application
